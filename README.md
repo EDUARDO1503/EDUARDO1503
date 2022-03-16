@@ -8,7 +8,7 @@
 
 ➥ I'm studying at high school Ω
 
-➥  Em Briga de Saci Qualquer Chute é Uma Voadeira Ω
+# "Em Briga de Saci Qualquer Chute é Uma Voadeira" Ω
 
 ➥ That's all, folks Ω
 
