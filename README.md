@@ -1,16 +1,15 @@
-### Hi there 👋
+### ✪ What's up everybody ツ ✪
 
-<!--
-**EDUARDO1503/EDUARDO1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➥ My nickname is ## Dudu Ω
 
-Here are some ideas to get you started:
+➥ I'm a young apprentice of Full Stack Programmer Ω
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➥ I'm new to programming Ω
+
+➥ I'm studying at high school Ω
+
+➥ # Em Briga de Saci Qualquer Chute é Uma Voadeira Ω
+
+➥ That's all, folks Ω
+
+      ✪ You're Welcome ✪
